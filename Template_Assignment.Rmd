@@ -26,7 +26,7 @@ require(yaml)
 
 # Title Page
 
-Include your names
+Include your names Riad Aslanli
 
 Include the tutorial group number
 
