@@ -28,7 +28,7 @@ require(yaml)
 
 Include your names Riad Aslanli
 
-Include the tutorial group number
+Include the tutorial group number 3.6
 
 Include your tutorial lecturer's name
 
